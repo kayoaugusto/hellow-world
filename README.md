@@ -1,2 +1,6 @@
 # hellow-world
-Just another repository 
+
+Olá gitHub!
+
+Um aluno tentando aprender e a contribuir com códigos de programação!
+
